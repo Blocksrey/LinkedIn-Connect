@@ -1,4 +1,4 @@
-#Made by Blocksrey
+#Made by jskinnerd
 #P.S. Please abuse
 
 from selenium.webdriver.common.by import By
